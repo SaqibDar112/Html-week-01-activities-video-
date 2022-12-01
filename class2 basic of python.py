@@ -1,7 +1,0 @@
-print("Hello")
-print("Hello World")
-'Jatin Katyal'
-a = 255
-print(a)
-type(a)
-ininstance(print, object)
